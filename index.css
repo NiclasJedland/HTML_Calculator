@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	background-color: grey;
+}
+
+button {
+	text-align: center;
+	font-size: 2em;
+	margin: 10px;
+	padding: 1em;
+	width: 20px;
+	height: 20px;
+	line-height: 5px;
+}
+
+p {
+	font-size: 2em;
+}
+
+#calculate {
+	background-color: white;
+	margin: auto;
+	height: 1em;
+	width: 10.5em;
+	border: 1px solid black;
+}
+
+.calcarea {
+	background-color: darkgray;
+	margin: auto;
+	border: 2px solid black;
+	width: 25%;
+}
